@@ -1,8 +1,8 @@
-﻿
+# DESCRIPTION
 
-……ACCIDENT ALERT SYSTEM…..
+## ACCIDENT ALERT SYSTEM
 
-**INTRODUCTION**
+## INTRODUCTION
 
 Accident alert system to rescuing people in accidents. This is improved security systems for
 
